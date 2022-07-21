@@ -49,6 +49,18 @@
 
 </div>
 
+
+## 📺 Dia 2
+
+<div>
+
+  <img src="https://github.com/Gabriel-Almeida00/Imersao-java/blob/main/imgs/figurinhas.png?raw=true" width="375" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+ 
+</div>
+
  
 
  
