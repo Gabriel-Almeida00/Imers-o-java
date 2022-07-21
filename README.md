@@ -37,7 +37,7 @@
 
 
 
-## 📺 Dia 1
+## 📺 Dia 1 - consumindo api e mostrando no terminal
 
 <div>
 
@@ -50,7 +50,7 @@
 </div>
 
 
-## 📺 Dia 2
+## 📺 Dia 2 - gerando firgurinhas
 
 <div>
 
