@@ -61,7 +61,7 @@
  
 </div>
 
-## 📺 Dia 1 - Refatorando o codigo
+## 📺 Dia 1 - Refatorando o codigo, aplicando os conceitos de P.O.O. e criada novas classes, aonde deixamos o código mais limpo e organizado.
 
  
 
