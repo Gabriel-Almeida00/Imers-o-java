@@ -61,6 +61,8 @@
  
 </div>
 
+## 📺 Dia 1 - Refatorando o codigo
+
  
 
  
