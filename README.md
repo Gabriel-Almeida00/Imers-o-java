@@ -69,13 +69,7 @@
 
 ## 📺 Dia 4 - criando API que uso o MongoDb
 
-https://linguagens-api-gabriel.herokuapp.com/linguagens
-
-<img src="https://github.com/Gabriel-Almeida00/Imersao-java/blob/main/saida/C%23.png?raw=true" width="75" />
-
-<img src="https://github.com/Gabriel-Almeida00/Imersao-java/blob/main/saida/PHP.png?raw=true" width="75" />
-
-<img src="https://github.com/Gabriel-Almeida00/Imersao-java/blob/main/saida/java.png?raw=true" width="75" />
+https://github.com/Gabriel-Almeida00/linguagens-api
 
  
 
