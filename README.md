@@ -63,9 +63,19 @@
 
 ## 📺 Dia 3 - Refatorando o codigo, aplicando os conceitos de P.O.O. e criada novas classes, aonde deixamos o código mais limpo e organizado.
 
+<img src="https://github.com/Gabriel-Almeida00/Imersao-java/blob/main/imgs/refatorando.png?raw=true" width="375" />
+
 
 
 ## 📺 Dia 4 - criando API que uso o MongoDb
+
+https://linguagens-api-gabriel.herokuapp.com/linguagens
+
+<img src="https://github.com/Gabriel-Almeida00/Imersao-java/blob/main/saida/C%23.png?raw=true" width="75" />
+
+<img src="https://github.com/Gabriel-Almeida00/Imersao-java/blob/main/saida/PHP.png?raw=true" width="75" />
+
+<img src="https://github.com/Gabriel-Almeida00/Imersao-java/blob/main/saida/java.png?raw=true" width="75" />
 
  
 
